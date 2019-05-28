@@ -115,3 +115,14 @@ np.hstack([grid,z])
 reshap= np.arange(16).reshape((4,4))
 print(reshap)
 
+## function 
+def greater(a,b):
+    print("inside function")
+    print(a)
+    print(b)
+    if a>b :
+        return b
+    else:
+        return a
+t = greater(np.array(3),np.array(4))  
+print(t)  
