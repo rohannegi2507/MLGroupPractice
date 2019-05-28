@@ -121,8 +121,9 @@ def greater(a,b):
     print(a)
     print(b)
     if a>b :
-        return b
-    else:
         return a
-t = greater(np.array(3),np.array(4))  
+    else:
+        return b
+t = greater(np.array(3),np.array(4)) 
+print("d") 
 print(t)  
