@@ -31,6 +31,7 @@ def thirdReverseMethod(string):
 
 # using reversed()
 
+
 # Function to reverse a string 
 def forthReverseString(string):
     string = "".join(reversed(string))
