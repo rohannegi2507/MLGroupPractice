@@ -21,7 +21,8 @@ from sklearn.svm import SVR
 from sklearn.neighbors import KNeighborsRegressor
 
 
-get_ipython().run_line_magic('matplotlib', 'inline')
+
+# get_ipython().run_line_magic('matplotlib', 'inline')
 rc["figure.figsize"] = 10,6
 
 
