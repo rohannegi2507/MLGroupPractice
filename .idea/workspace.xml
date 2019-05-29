@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="392e1956-c1eb-43a7-80d4-a2ba34f864d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataScience/numpy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataScience/pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatBotTutorial/ChatBot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatBotTutorial/PreprocessData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeepLearning/Pytorch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingPractice/ListCoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodingPractice/ListCoding.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +16,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/Linear_regression_with_gradient_descent.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/Logistic_Regression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+              <folding>
+                <element signature="e#1663#1696#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -224,11 +245,11 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.Logistic_Regression" />
+      <item itemvalue="Python.Matplot" />
       <item itemvalue="Python.test1" />
       <item itemvalue="Python.test2 (1)" />
-      <item itemvalue="Python.Matplot" />
-      <item itemvalue="Python.Logistic_Regression" />
+      <item itemvalue="Python.test2" />
     </list>
     <recent_temporary>
       <list>
@@ -307,7 +328,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559107221661</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Take Pull From Nikita">
+      <created>1559107509571</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559107509571</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Take Pull From Nikita">
+      <created>1559107613704</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1559107613704</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -322,7 +357,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -332,7 +367,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
@@ -348,7 +383,8 @@
     <MESSAGE value="Implemented String Reverse Programming for Interview" />
     <MESSAGE value="Clean Code" />
     <MESSAGE value="Fixed Issues" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Issues" />
+    <MESSAGE value="Take Pull From Nikita" />
+    <option name="LAST_COMMIT_MESSAGE" value="Take Pull From Nikita" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -455,21 +491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/Linear_regression_with_gradient_descent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1050" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/Logistic_Regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-          <folding>
-            <element signature="e#1663#1696#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/RegressionBasic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -507,6 +528,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingPractice/NumpyCoding.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Linear_regression_with_gradient_descent.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Logistic_Regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+          <folding>
+            <element signature="e#1663#1696#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
