@@ -12,41 +12,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/api/FlaskAPI.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingPractice/StringCoding.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataScience/Matplot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-938" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/RegressionBasic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-              <folding>
-                <element signature="e#29#48#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NLP/nlp_first_practice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/CodingPractice/DataFrameCoding.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingPractice/ArrayCoding.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingPractice/ListCoding.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingPractice/PandasCoding.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingPractice/NumpyCoding.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -71,19 +77,20 @@
       <list>
         <option value="$PROJECT_DIR$/test/test2.py" />
         <option value="$PROJECT_DIR$/CodingPractice/test2.py" />
-        <option value="$PROJECT_DIR$/CodingPractice/StringCoding.py" />
         <option value="$PROJECT_DIR$/CodingPractice/ArrayCoding.py" />
         <option value="$PROJECT_DIR$/CodingPractice/ListCoding.py" />
         <option value="$PROJECT_DIR$/CodingPractice/NumpyCoding.py" />
         <option value="$PROJECT_DIR$/CodingPractice/DataFrameCoding.py" />
         <option value="$PROJECT_DIR$/CodingPractice/PandasCoding.py" />
         <option value="$PROJECT_DIR$/NLP/nlp_first_practice.py" />
+        <option value="$PROJECT_DIR$/CodingPractice/StringCoding.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -93,17 +100,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MLGroupPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MLGroupPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -304,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558931839080</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Implemented String Reverse Programming for Interview">
+      <created>1558969668806</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558969668806</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -342,7 +346,8 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Added FaceDetection and ResizeImage and CodingPractice" />
     <MESSAGE value="Added Different Types of Directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Different Types of Directory" />
+    <MESSAGE value="Implemented String Reverse Programming for Interview" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented String Reverse Programming for Interview" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -402,26 +407,10 @@
     <entry file="file://$PROJECT_DIR$/FaceDetection/faceSmileEyeDetection.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/FacialRecognition/01_face_dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FacialRecognition/03_face_recognition.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FacialRecognition/02_face_training.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/FacialRecognition/01_face_dataset.py" />
+    <entry file="file://$PROJECT_DIR$/FacialRecognition/03_face_recognition.py" />
+    <entry file="file://$PROJECT_DIR$/FacialRecognition/02_face_training.py" />
+    <entry file="file://$PROJECT_DIR$/CodingPractice/test2.py" />
     <entry file="file://$PROJECT_DIR$/CodingPractice/InterviewCodingPractice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -429,37 +418,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/ArrayCoding.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/ListCoding.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/NumpyCoding.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/DataFrameCoding.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/PandasCoding.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/StringCoding.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataScience/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataScience/SeaBornExample.py">
+    <entry file="file://$PROJECT_DIR$/DataScience/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/DataScience/SeaBornExample.py" />
+    <entry file="file://$PROJECT_DIR$/api/FlaskAPI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="14" />
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/RegressionBasic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="135">
           <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
           <folding>
             <element signature="e#29#48#0" expanded="true" />
@@ -474,15 +444,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataScience/Matplot.py">
+    <entry file="file://$PROJECT_DIR$/CodingPractice/StringCoding.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-938" />
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/FlaskAPI.py">
+    <entry file="file://$PROJECT_DIR$/CodingPractice/DataFrameCoding.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPractice/ArrayCoding.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPractice/ListCoding.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPractice/PandasCoding.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPractice/NumpyCoding.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataScience/Matplot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="180">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
         </state>
       </provider>
     </entry>
