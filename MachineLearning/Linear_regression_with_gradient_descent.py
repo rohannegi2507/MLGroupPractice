@@ -82,7 +82,7 @@ def gradient_descent_runner(features,labels,learning_rate,initial_c,initial_m,nu
 
 
 def run():
-    points = pd.read_csv('/home/arpan/linear_regression_live/data.csv',delimiter=',',header = None,names=['study hours','test scores']).sort_values(by=['study hours'])
+    points = pd.read_csv('data.csv',delimiter=',',header = None,names=['study hours','test scores']).sort_values(by=['study hours'])
     learning_rate=0.000001
     initial_c = 4 
     initial_m = 5

@@ -48,7 +48,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 def dataPreparation():
-    df = shuffle(pd.read_csv('/home/arpan/Downloads/data_banknote_authentication.txt',names=['image variance','skewness','kurtosis','entropy','y']))
+    df = shuffle(pd.read_csv('data_banknote_authentication.txt',names=['image variance','skewness','kurtosis','entropy','y']))
     X = df[['image variance','skewness', 'kurtosis', 'entropy']].values
     Y = df[['y']].values
     one_column = np.ones((1372,1),dtype = 'float64' )
