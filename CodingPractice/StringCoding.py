@@ -17,7 +17,15 @@ def secondReverseMethod(string):
     return str
 
 
-# 3 Python code to reverse a string  
+# using reversed()
+# Function to reverse a string
+# 3 Python code to reverse a string
+def forthReverseString(string):
+    string = "".join(reversed(string))
+    return string
+
+
+# 4 Python code to reverse a string
 # using recursion 
 
 def thirdReverseMethod(string):
@@ -26,16 +34,6 @@ def thirdReverseMethod(string):
     else:
         return thirdReverseMethod(string[1:]) + string[0]
 
-    # 4 Python code to reverse a string
-
-
-# using reversed()
-
-
-# Function to reverse a string 
-def forthReverseString(string):
-    string = "".join(reversed(string))
-    return string
 
 str = input("Plase enter the string    ")
 rev_str = forthReverseString(str)
