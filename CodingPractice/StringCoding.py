@@ -28,7 +28,6 @@ def thirdReverseMethod(string):
 
     # 4 Python code to reverse a string
 
-
 # using reversed()
 
 
