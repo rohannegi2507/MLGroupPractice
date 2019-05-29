@@ -12,39 +12,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/api/FlaskAPI.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingPractice/NumpyCoding.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataScience/Matplot.py">
+        <entry file="file://$PROJECT_DIR$/DataScience/numpy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-938" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/RegressionBasic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            <state>
               <folding>
-                <element signature="e#29#48#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NLP/nlp_first_practice.py">
+        <entry file="file://$PROJECT_DIR$/ChatBotTutorial/ChatBot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ChatBotTutorial/PreprocessData.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/FlaskAPI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -62,7 +67,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="flask_api_implementation" />
       </map>
     </option>
   </component>
@@ -71,19 +76,27 @@
       <list>
         <option value="$PROJECT_DIR$/test/test2.py" />
         <option value="$PROJECT_DIR$/CodingPractice/test2.py" />
-        <option value="$PROJECT_DIR$/CodingPractice/StringCoding.py" />
         <option value="$PROJECT_DIR$/CodingPractice/ArrayCoding.py" />
         <option value="$PROJECT_DIR$/CodingPractice/ListCoding.py" />
         <option value="$PROJECT_DIR$/CodingPractice/NumpyCoding.py" />
         <option value="$PROJECT_DIR$/CodingPractice/DataFrameCoding.py" />
         <option value="$PROJECT_DIR$/CodingPractice/PandasCoding.py" />
         <option value="$PROJECT_DIR$/NLP/nlp_first_practice.py" />
+        <option value="$PROJECT_DIR$/CodingPractice/StringCoding.py" />
+        <option value="$PROJECT_DIR$/DataScience/Matplot.py" />
+        <option value="$PROJECT_DIR$/DataScience/pandas.py" />
+        <option value="$PROJECT_DIR$/CodingPractice/Python-Dictonaries.py" />
+        <option value="$PROJECT_DIR$/DataScience/lists.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/RegressionBasic.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Logistic_Regression.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Linear_regression_with_gradient_descent.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -134,8 +147,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Matplot">
-    <configuration name="03_face_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Logistic_Regression">
+    <configuration name="Logistic_Regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MLGroupPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FacialRecognition" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FacialRecognition/03_face_recognition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/Logistic_Regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,19 +255,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.03_face_recognition" />
       <item itemvalue="Python.test2" />
       <item itemvalue="Python.test1" />
       <item itemvalue="Python.test2 (1)" />
       <item itemvalue="Python.Matplot" />
+      <item itemvalue="Python.Logistic_Regression" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Logistic_Regression" />
         <item itemvalue="Python.Matplot" />
         <item itemvalue="Python.test1" />
         <item itemvalue="Python.test2 (1)" />
         <item itemvalue="Python.test2" />
-        <item itemvalue="Python.03_face_recognition" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +317,63 @@
       <option name="project" value="LOCAL" />
       <updated>1558931839080</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Implemented String Reverse Programming for Interview">
+      <created>1558969668806</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558969668806</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Clean Code">
+      <created>1559106492276</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559106492276</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed Issues">
+      <created>1559107221661</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559107221661</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Take Pull From Nikita">
+      <created>1559107509571</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559107509571</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Take Pull From Nikita">
+      <created>1559107613704</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1559107613704</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Take Pull From Srinivas">
+      <created>1559107714459</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1559107714459</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Clean">
+      <created>1559108173259</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1559108173259</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fixed issues and Clean Code">
+      <created>1559108717390</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1559108717390</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -329,7 +398,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
@@ -342,7 +411,14 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Added FaceDetection and ResizeImage and CodingPractice" />
     <MESSAGE value="Added Different Types of Directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Different Types of Directory" />
+    <MESSAGE value="Implemented String Reverse Programming for Interview" />
+    <MESSAGE value="Clean Code" />
+    <MESSAGE value="Fixed Issues" />
+    <MESSAGE value="Take Pull From Nikita" />
+    <MESSAGE value="Take Pull From Srinivas" />
+    <MESSAGE value="Clean" />
+    <MESSAGE value="Fixed issues and Clean Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed issues and Clean Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -402,30 +478,30 @@
     <entry file="file://$PROJECT_DIR$/FaceDetection/faceSmileEyeDetection.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/FacialRecognition/01_face_dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FacialRecognition/03_face_recognition.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FacialRecognition/02_face_training.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/FacialRecognition/01_face_dataset.py" />
+    <entry file="file://$PROJECT_DIR$/FacialRecognition/03_face_recognition.py" />
+    <entry file="file://$PROJECT_DIR$/FacialRecognition/02_face_training.py" />
+    <entry file="file://$PROJECT_DIR$/CodingPractice/test2.py" />
     <entry file="file://$PROJECT_DIR$/CodingPractice/InterviewCodingPractice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataScience/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/DataScience/SeaBornExample.py" />
+    <entry file="file://$PROJECT_DIR$/NLP/nlp_first_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPractice/StringCoding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -435,8 +511,12 @@
     <entry file="file://$PROJECT_DIR$/CodingPractice/ListCoding.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/NumpyCoding.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/DataScience/Matplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="470" column="34" lean-forward="true" selection-start-line="470" selection-start-column="34" selection-end-line="470" selection-end-column="34" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingPractice/DataFrameCoding.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -444,45 +524,86 @@
     <entry file="file://$PROJECT_DIR$/CodingPractice/PandasCoding.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/StringCoding.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/CodingPractice/Python-Dictonaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="201" selection-start-line="201" selection-end-line="201" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataScience/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/DataScience/lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataScience/SeaBornExample.py">
+    <entry file="file://$PROJECT_DIR$/DataScience/pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#85#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Logistic_Regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="39" selection-start-line="39" selection-end-line="39" selection-end-column="27" />
+          <folding>
+            <element signature="e#1663#1696#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Linear_regression_with_gradient_descent.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="14" />
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="e#829#848#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/RegressionBasic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        <state relative-caret-position="165">
+          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPractice/NumpyCoding.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataScience/numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="e#29#48#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NLP/nlp_first_practice.py">
+    <entry file="file://$PROJECT_DIR$/ChatBotTutorial/ChatBot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataScience/Matplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-938" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/ChatBotTutorial/PreprocessData.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/api/FlaskAPI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

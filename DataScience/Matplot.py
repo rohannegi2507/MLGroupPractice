@@ -501,8 +501,6 @@ plt.legend('ABCDEF', ncol=2, loc='upper left');
 
 # In[55]:
 
-
-
 # same plotting code as above!
 plt.plot(x, y)
 plt.legend('ABCDEF', ncol=2, loc='upper left');
