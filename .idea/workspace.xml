@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="392e1956-c1eb-43a7-80d4-a2ba34f864d9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/MachineLearning/Linear_regression_with_gradient_descent.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/Linear_regression_with_gradient_descent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/Logistic_Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/Logistic_Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScience/numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScience/pandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,32 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/Logistic_Regression.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-              <folding>
-                <element signature="e#1663#1696#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/RegressionBasic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-              <folding>
-                <element signature="e#29#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,6 +43,7 @@
         <option value="$PROJECT_DIR$/NLP/nlp_first_practice.py" />
         <option value="$PROJECT_DIR$/CodingPractice/StringCoding.py" />
         <option value="$PROJECT_DIR$/DataScience/Matplot.py" />
+        <option value="$PROJECT_DIR$/DataScience/pandas.py" />
       </list>
     </option>
   </component>
@@ -89,6 +66,16 @@
             <path>
               <item name="MLGroupPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="MLGroupPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MLGroupPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MLGroupPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MLGroupPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MLGroupPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="DataScience" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MLGroupPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -313,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559106492276</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Fixed Issues">
+      <created>1559107221661</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559107221661</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -327,19 +321,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
@@ -354,7 +347,8 @@
     <MESSAGE value="Added Different Types of Directory" />
     <MESSAGE value="Implemented String Reverse Programming for Interview" />
     <MESSAGE value="Clean Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clean Code" />
+    <MESSAGE value="Fixed Issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Issues" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -448,19 +442,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/DataFrameCoding.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingPractice/ArrayCoding.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingPractice/ListCoding.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/PandasCoding.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/NumpyCoding.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/DataScience/Matplot.py">
@@ -494,6 +479,34 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPractice/DataFrameCoding.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPractice/PandasCoding.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataScience/pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1158">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#85#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataScience/numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPractice/NumpyCoding.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
