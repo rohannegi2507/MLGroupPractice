@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="392e1956-c1eb-43a7-80d4-a2ba34f864d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ChatBotTutorial/ChatBot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatBotTutorial/PreprocessData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeepLearning/Pytorch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingPractice/ListCoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodingPractice/ListCoding.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -245,11 +240,11 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.Logistic_Regression" />
-      <item itemvalue="Python.Matplot" />
+      <item itemvalue="Python.test2" />
       <item itemvalue="Python.test1" />
       <item itemvalue="Python.test2 (1)" />
-      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.Matplot" />
+      <item itemvalue="Python.Logistic_Regression" />
     </list>
     <recent_temporary>
       <list>
@@ -342,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559107613704</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Take Pull From Srinivas">
+      <created>1559107714459</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1559107714459</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -384,7 +386,8 @@
     <MESSAGE value="Clean Code" />
     <MESSAGE value="Fixed Issues" />
     <MESSAGE value="Take Pull From Nikita" />
-    <option name="LAST_COMMIT_MESSAGE" value="Take Pull From Nikita" />
+    <MESSAGE value="Take Pull From Srinivas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Take Pull From Srinivas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
