@@ -135,7 +135,7 @@ eng2sp
 
 # In[ ]:
 
-From the result we can see the new key:value pair is added to dictornary.
+# From the result we can see the new key:value pair is added to dictornary.
 
 
 # ### in Operator for Dictionary
@@ -198,7 +198,7 @@ word = 'banana'
 for letter in word:
     print(letter) 
 # Here we are creating word 'banana' and inputing it through for loop.
-the for loop counts each letter in the word    
+# the for loop counts each letter in the word
 
 
 # step-2:

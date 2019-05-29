@@ -7,7 +7,6 @@ Created on Tue May 28 14:46:30 2019
 #import libraries
 import math
 ##Lists
--------------------------------------------------------------------------
 #Create empty list in two ways
 empty_list = []
 empty_list = list()

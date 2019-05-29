@@ -19,6 +19,8 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt, rcParams as rc
+rc["figure.figsize"] = 10,6
 
 
 # ## Error function

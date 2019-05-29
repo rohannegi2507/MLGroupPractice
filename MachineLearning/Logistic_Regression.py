@@ -34,8 +34,10 @@ from sklearn.utils import shuffle
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-get_ipython().run_line_magic('matplotlib', 'inline')
+from matplotlib import pyplot as plt, rcParams as rc
 
+# get_ipython().run_line_magic('matplotlib', 'inline')
+rc["figure.figsize"] = 10,6
 
 # # Data Preparation
 # Data Preparation of data preprocessing is a very important part of machine learning models. In this method we are going to perform the following steps.
