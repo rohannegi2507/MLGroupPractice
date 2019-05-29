@@ -1,5 +1,5 @@
 # Python program to reverse a string without stack 
-# using extended slice synta
+# using extended slice syntax 
 
 # 1 Function to reverse a string
 def fisrtReverseMethod(string):
